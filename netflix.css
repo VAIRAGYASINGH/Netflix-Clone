@@ -10,7 +10,7 @@ body {
 }
 
 .main {
-    background: url(https://github.com/VAIRAGYASINGH/private-mms/blob/main/bg.jpg);
+    background: url(bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: max(1200px, 100vw);
